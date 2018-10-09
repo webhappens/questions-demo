@@ -150,6 +150,7 @@ return [
         /*
          * Package Service Providers...
          */
+        WebHappens\Questions\Nova\ToolServiceProvider::class,
 
         /*
          * Application Service Providers...
